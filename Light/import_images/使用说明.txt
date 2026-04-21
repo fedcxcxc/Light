@@ -1,0 +1,7 @@
+把你的 50 张原始图片放到这个目录里。
+
+支持格式：jpg、jpeg、png、webp
+导入时会自动按文件名排序，复制并重命名到 assets/cameras/cam_01.jpg ~ cam_50.jpg
+
+运行方式：
+python import_camera_images.py
